@@ -1,5 +1,4 @@
 
-import { ADD_CONTACT, DELETE_CONTACT, SET_FILTER } from './actions';
 
 const initialContactsState = [
   { id: 'id-1', name: 'Rosie Simpson', number: '459-12-56' },
